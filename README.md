@@ -9,7 +9,7 @@
 
 🖥This application is built on the Redux framework that allows adding, updating and deleting products. 
 
-## 🛠 Used Technologies:
+## 🛠 used technologies:
 
 📌React
 📌React Router Dom
