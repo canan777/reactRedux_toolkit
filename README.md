@@ -1,5 +1,5 @@
 # reactRedux_toolkit
-# reactRedux_toolkit
+
 
 # home page
 
@@ -15,8 +15,9 @@
 📌React Router Dom
 📌React Icons 
 📌Redux Toolkit
-📌Tailwind CSS 
+📌Tailwind CSS
 
+# reactRedux_toolkit
 <img src="./public/reactRedux_toolkit.gif"/>
 
 # Getting Started with Create React App
@@ -89,7 +90,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# reactRedux_toolkit
+
 
 
 
